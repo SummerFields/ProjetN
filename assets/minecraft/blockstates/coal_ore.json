@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/coal_ore" },
+            { "model": "block/random/ore/coal/coal_ore1" },
+            { "model": "block/random/ore/coal/coal_ore2" },
+            { "model": "block/random/ore/coal/coal_ore3" },
+            { "model": "block/random/ore/coal/coal_ore4" },
+            { "model": "block/random/ore/coal/coal_ore5" },
+            { "model": "block/random/ore/coal/coal_ore6" },
+            { "model": "block/random/ore/coal/coal_ore7" }
+        ]
+    }
+}

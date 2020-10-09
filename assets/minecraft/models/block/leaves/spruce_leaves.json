@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"all": "block/variants/leaves/spruce_leaves",
+		"particle": "block/variants/leaves/spruce_leaves"
+	},
+	"elements": [
+		{
+			"from": [4, -2.5, -2.5],
+			"to": [4, 18.5, 18.5],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [4, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0}
+			}
+		},
+		{
+			"from": [12, -2.5, -2.5],
+			"to": [12, 18.5, 18.5],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [12, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0}
+			}
+		},
+		{
+			"from": [-2.5, -2.5, 4],
+			"to": [18.5, 18.5, 4],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 8, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0}
+			}
+		},
+		{
+			"from": [-2.5, -2.5, 12],
+			"to": [18.5, 18.5, 12],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0}
+			}
+		}
+	]
+}

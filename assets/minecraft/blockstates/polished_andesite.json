@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/polished_andesite" },
+            { "model": "block/stone/polished/polished_andesite_1" },
+            { "model": "block/stone/polished/polished_andesite_2" },
+            { "model": "block/stone/polished/polished_andesite_3" },
+            { "model": "block/stone/polished/polished_andesite_4" }
+        ]
+    }
+}

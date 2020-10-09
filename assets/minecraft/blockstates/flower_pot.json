@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/flower_pot" },
+            { "model": "block/random/flower_pot/flower_pot_1" },
+            { "model": "block/random/flower_pot/flower_pot_2" },
+            { "model": "block/random/flower_pot/flower_pot_3" },
+            { "model": "block/random/flower_pot/flower_pot_4" }
+        ]
+    }
+}

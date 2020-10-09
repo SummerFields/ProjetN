@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/coarse_dirt" },
+            { "model": "block/random/coarse_dirt/coarse_dirt1" }
+        ]
+    }
+}

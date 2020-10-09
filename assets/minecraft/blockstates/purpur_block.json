@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/purpur_block" },
+            { "model": "block/stone/polished/purpur_block_1" },
+            { "model": "block/stone/polished/purpur_block_2" },
+            { "model": "block/stone/polished/purpur_block_3" },
+            { "model": "block/stone/polished/purpur_block_4" }
+        ]
+    }
+}
