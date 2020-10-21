@@ -7,7 +7,7 @@
         {   "when": { "east": "true" },
             "apply": { "model": "block/bars/iron_bars_side", "y": 90 }
         },
-        {   "when": { "south": "true" },
+        {   "when": { "south": "true"},
             "apply": { "model": "block/bars/iron_bars_side", "y": 180 }
         },
         {   "when": { "west": "true" },
