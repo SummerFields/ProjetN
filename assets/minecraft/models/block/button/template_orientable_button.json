@@ -6,7 +6,7 @@
         {   "from": [ 5, 0, 6 ],
             "to": [ 11, 2, 10 ],
             "faces": {
-                "down":  { "uv": [2,2,8,6], "texture": "#texture", "cullface": "down" },
+                "down":  { "uv": [2,2,8,6], "texture": "#texture" },
                 "up":    { "uv": [2,2,8,6], "texture": "#texture" },
                 "north": { "uv": [2,0,8,2], "texture": "#texture" },
                 "south": { "uv": [2,6,8,8], "texture": "#texture" },
